@@ -50,7 +50,7 @@
                         </a>
                     </div>
                 </base-dropdown>-->
-                <base-dropdown tag="li" class="nav-item">
+                <!--<base-dropdown tag="li" class="nav-item">
                     <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-collection d-lg-none"></i>
                         <span class="nav-link-inner--text">Examples</span>
@@ -59,7 +59,7 @@
                     <router-link to="/profile" class="dropdown-item">Profile</router-link>
                     <router-link to="/login" class="dropdown-item">Login</router-link>
                     <router-link to="/register" class="dropdown-item">Register</router-link>
-                </base-dropdown>
+                </base-dropdown>-->
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li class="nav-item">
